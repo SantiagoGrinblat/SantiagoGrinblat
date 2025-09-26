@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="[https://github.com/SantiagoGrinblat]">
+  <a href="https://github.com/SantiagoGrinblat">
     Desarrollador Mobile Android | Kotlin & Jetpack Compose
   </a>
 </p>
