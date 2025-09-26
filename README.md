@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/SantiagoGrinblat/SantiagoGrinblat/edit/main/README.md)">
     Desarrollador Mobile Android | Kotlin & Jetpack Compose
   </a>
 </p>
