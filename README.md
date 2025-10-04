@@ -16,7 +16,7 @@
 
 - 👨‍💻 Actualmente desarrollando apps con **Kotlin + Jetpack Compose**  
 - 🌱 Aprendiendo y aplicando **Clean Architecture** y **Buenas prácticas en Android**  
-- 🧪 Usando y practicando **Testing con JUnit y MockK**  
+- 🧪 Aplicando Testing en Android con **JUnit y MockK**
 - 🚀 Apasionado por crear **apps útiles, rápidas y con buen diseño**  
 
 ---
@@ -29,7 +29,6 @@
 
 #### 🖥️ Frameworks
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2025.05.00-97C902?style=for-the-badge&logo=Jetpack%20Compose)
-![Android](https://img.shields.io/badge/Android-API_35-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### 📚 Libraries
 ![Hilt](https://img.shields.io/badge/Hilt-2.52-59666C?style=for-the-badge&logo=dagger&logoColor=white)
