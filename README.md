@@ -58,9 +58,8 @@
     <img alt="Download CV" src="https://img.shields.io/badge/Descargar%20CV-0078D7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
+
 ---
-
-
 ---
 
 ### 🔗 &nbsp;Contactame
