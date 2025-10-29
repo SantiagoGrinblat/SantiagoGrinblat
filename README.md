@@ -51,6 +51,17 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+### 📄 &nbsp;Mi CV
+
+<div align="center">
+  <a href="" download>
+    <img alt="Download CV" src="https://img.shields.io/badge/Descargar%20CV-0078D7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
+---
+
+
+---
 
 ### 🔗 &nbsp;Contactame
 
