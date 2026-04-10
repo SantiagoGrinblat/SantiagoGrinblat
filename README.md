@@ -54,7 +54,7 @@
 ### 📄 &nbsp;Mi CV
 
 <div align="center">
-  <a href="https://github.com/SantiagoGrinblat/SantiagoGrinblat/raw/main/CV_santiago_grinblat.pdf" download>
+  <a href="https://raw.githubusercontent.com/SantiagoGrinblat/SantiagoGrinblat/main/SantiagoGrinblatCV.pdf" download target="_blank">
     <img alt="Download CV" src="https://img.shields.io/badge/Descargar%20CV-0078D7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
